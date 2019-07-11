@@ -18,3 +18,5 @@ The custom message that will be pushed to AWS endpoint has to be specified here 
 `char payload[] = "{ \"payload\": TWITTER-ID-GOES-HERE }";`
 
 In our case, it's a `JSON` message containing a **field named payload** with a **Twitter ID valued** associated.
+
+You can read more accurate details about how we developed our MEmento project at this link: https://www.hackster.io/memento-team/memento-07ff93
