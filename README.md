@@ -18,3 +18,9 @@ The custom message that will be pushed to AWS endpoint has to be specified here 
 `char payload[] = "{ \"payload\": TWITTER-ID-GOES-HERE }";`
 
 In our case, it's a `JSON` message containing a **field named payload** with a **Twitter ID valued** associated.
+
+# Authors
+* Linkedin:
+	* [Gabriele Cervelli](https://www.linkedin.com/in/<inserire user>/)
+	* [Giovanni De Luca](https://www.linkedin.com/in/<inserire user>/)
+	* [Antonino Di Maggio](https://www.linkedin.com/in/antonino-di-maggio-216479143/)
